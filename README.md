@@ -1,5 +1,7 @@
 # Introduction to the secp256k1 Library
 
+Python Library for Secp256k1 Bitcoin curve to do fast ECC calculation (3.49 Million/s per cpu) https://github.com/iceland2k14/secp256k1
+
 The secp256k1 library is a powerful tool for working with the secp256k1 elliptic curve, which is widely used in various cryptocurrencies, including Bitcoin and Ethereum. This library provides a range of functions that are essential for elliptic curve cryptography (ECC), such as scalar multiplication, point multiplication, point addition, and more.
 
 In this book, we will explore these functions in detail, providing comprehensive explanations and examples for each one. By the end of this book, you should have a solid understanding of how to use the secp256k1 library to perform various cryptographic operations.
